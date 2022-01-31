@@ -1,6 +1,6 @@
 #### PS-SI-2021-2-SDA
 
-Repositório criado para adicionar os artefatos referente a disciplina de Projeto de Software, ministrada pelo Prof. Rubens. 
+Repositório criado para adicionar os artefatos referente a disciplina de _Projeto de Software_, ministrada pelo Prof. Rubens. 
 
 **Graduandos:** </br>
 20171225 - Delvo Resende </br>
